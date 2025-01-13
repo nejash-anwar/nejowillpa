@@ -14,8 +14,8 @@ has_digits.addEventListener("submit", function(event) {
 
 
     document.write("<img src='nejju.jpg', width='86', height='75'></img> ")
-    document.write("     <table border='2' > <tr id='qabxii_bara'> <td colmanspan='2'><h1>the Ethiopian university Entrance Examination Result</h1></td>  </tr></tabel>")
-    document.write("     <table border='2' ><ul><tr> <td>ADMISSIONNUMBER</td><td>888465</td></tr> </ul><ul><tr> <td>FIRSTNAME</td><td>URJI</td></tr> </ul><ul><tr> <td>FATHERNAME</td><td>ALIYI</td></tr> </ul><ul><tr> <td>GRANDFATHER</td><td>HAMID</td></tr> </ul><ul><tr> <td>GENDER</td></td><td>FEMAL</td></tr> </ul><ul><tr> <td>SCHOOLCODE</td><td>04060102</td></tr> </ul><ul><tr> <td>SCHOOL</td><td>CHERCHER(W.HARAGE)</td></tr> </ul><ul><tr> <td>ENGLISH</td><td>90</td></tr> </ul><ul><tr> <td>NATURALMATH</td><td>98</td></tr> </ul><ul><tr> <td>APTITUDE</td><td>99</td></tr> </ul><ul><tr> <td>PHYSICS</td><td>90</td></tr> </ul><ul><tr> <td>CHEMISTRY</td><td>97</td></tr> </ul><ul><tr> <td>BIOLOGY</td><td>90</td></tr> </ul><ul><tr> <td>TOTAL</td><td>564</td></tr> </ul></table>");
+    document.write("     <table border='' > <tr id='qabxii_bara'> <td colmanspan='2'><h1>the Ethiopian university Entrance Examination Result</h1></td>  </tr></tabel>")
+    document.write("     <table border='1' ><ul><tr> <td>ADMISSIONNUMBER</td><td>888465</td></tr> </ul><ul><tr> <td>FIRSTNAME</td><td>URJI</td></tr> </ul><ul><tr> <td>FATHERNAME</td><td>ALIYI</td></tr> </ul><ul><tr> <td>GRANDFATHER</td><td>HAMID</td></tr> </ul><ul><tr> <td>GENDER</td></td><td>FEMAL</td></tr> </ul><ul><tr> <td>SCHOOLCODE</td><td>04060102</td></tr> </ul><ul><tr> <td>SCHOOL</td><td>CHERCHER(W.HARAGE)</td></tr> </ul><ul><tr> <td>ENGLISH</td><td>90</td></tr> </ul><ul><tr> <td>NATURALMATH</td><td>98</td></tr> </ul><ul><tr> <td>APTITUDE</td><td>99</td></tr> </ul><ul><tr> <td>PHYSICS</td><td>90</td></tr> </ul><ul><tr> <td>CHEMISTRY</td><td>97</td></tr> </ul><ul><tr> <td>BIOLOGY</td><td>90</td></tr> </ul><ul><tr> <td>TOTAL</td><td>564</td></tr> </ul></table>");
          
  
   }
