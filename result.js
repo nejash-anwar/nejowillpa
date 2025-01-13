@@ -6,7 +6,7 @@ has_digits.addEventListener("submit", function(event) {
  var has_num = document.getElementById("user_text").value, 
  has_pass = document.getElementById("passwad_user").value,
  tomatch = /urji/i,
- topassward=/888465/;
+ topassward=/@21212@1312!2121321212331231221awqesddfferwd/;
  event.preventDefault();
  has_digits.reset();
  if ((tomatch.test(has_num))&&(topassward.test(has_pass))) {
